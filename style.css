@@ -93,6 +93,12 @@ body{
 .info_data .followers{
     margin-left: 0;
 }
+@media(max-width: 1440px){
+    .wrapper{
+        background-position: -300px -490px, 800px 379px;
+    }
+}
+
 @media(max-width: 800px){
     .wrapper{
         background-position: -500px -490px, 400px 379px;

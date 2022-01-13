@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GIT HUB]()
-- Live Site URL: [SITE]()
+- Solution URL: [GIT HUB](https://github.com/lucasilvas2/profile-card-component.git)
+- Live Site URL: [SITE](https://lucasilvas2.github.io/profile-card-component/)
 
 ## My process
 
